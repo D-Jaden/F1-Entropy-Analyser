@@ -19,7 +19,7 @@ Calculates The Entropy  For Any Race Using Fast F1 Package
 
 ## SETUP 
 - ```sudo apt install python3-venv -y```
-- ``` python3 -m venv .venv```
+- ```python3 -m venv .venv```
 - ```source .venv/bin/activate```
 - ```pip install fastf1 pandas numpy matplotlib seaborn scipy```
   
