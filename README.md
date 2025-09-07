@@ -27,3 +27,5 @@ Calculates The Entropy  For Any Race Using Fast F1 Package
 ``` python f1.py```
 
 ## OUTPUT
+<img align="centre" alt="Coding" width="400" src="https://github.com/D-Jaden/F1-Entropy-Analyser/blob/main/images/Screenshot%20from%202025-09-07%2021-19-40.png">
+<img align="centre" alt="Coding" width="400" src="https://github.com/D-Jaden/F1-Entropy-Analyser/blob/main/images/Screenshot%20from%202025-09-07%2021-51-35.png">
