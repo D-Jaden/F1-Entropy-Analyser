@@ -16,3 +16,14 @@
 ```
 # F1-Entropy-Analyser
 Calculates The Entropy  For Any Race Using Fast F1 Package
+
+## SETUP 
+- ```sudo apt install python3-venv -y```
+- ``` python3 -m venv .venv```
+- ```source .venv/bin/activate```
+- ```pip install fastf1 pandas numpy matplotlib seaborn scipy```
+  
+## TO RUN 
+``` python f1.py```
+
+## OUTPUT
